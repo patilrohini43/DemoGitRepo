@@ -9,6 +9,7 @@ public class Addition {
 		int second = 20;
 		int mul = first * second;
 		System.out.println("The mul is: " + mul);
+
 	}
 
 }
