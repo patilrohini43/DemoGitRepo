@@ -15,7 +15,7 @@ public class Addition {
 		System.out.println("The sub is: " + sub);
 		
 		int div = first / second;
-		System.out.println("The div is: " + div);
+		System.out.println("The division is: " + div);
 
 
 	}
